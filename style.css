@@ -1,0 +1,70 @@
+body {
+    background-image: url(./images/snowflake-threads-wool-coat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 { 
+    position: relative;
+    margin-left: 48vw;
+    font-size: 4em;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: blanchedalmond;
+    text-shadow: 10px 20px 25px orange,
+    -10px -20px 25px gold;
+}
+h2, h3, h4, footer {
+    padding-bottom: 20px;
+}
+.aside {
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+.aside ul {
+    text-transform: uppercase;
+    display: inline-block;
+    text-shadow: 10px 20px 25px orange,
+    -10px -20px 25px gold;
+
+}
+.aside ul li {
+    list-style-type: none;
+    padding: 20px;
+    color: blanchedalmond;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
+/* main {
+    display: inline-block;
+} */
+
+.section {
+    background-color: rgba(255, 255, 255, 0.876);
+    color: rgb(32, 32, 30);
+    width: 60vw;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: inline-block;
+    padding: 40px;  
+}
+p {
+    line-height: 20px;
+}
+li {
+    list-style-type: square;
+    padding: 10px;
+}
+footer {
+    color: blanchedalmond;
+    background-color: rgba(0, 0, 0, 0.726);
+    width: 100vw;
+    padding: 40px;
+    font-size: 1.5em;
+    text-shadow: 10px 20px 25px orange,
+    -10px -20px 25px gold;
+}
+
+span {
+    margin-left: 60%;
+}
